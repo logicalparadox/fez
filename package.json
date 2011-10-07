@@ -2,7 +2,7 @@
   "author": "Jake Luer <@jakeluer>",
   "name": "fez",
   "description": "Have a fez. Css3 framework for stylus.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/logicalparadox/fez.git"

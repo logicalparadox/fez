@@ -43,8 +43,7 @@ fez-totalWidth(cw = null, gw = null, ct = null)
 // The calculation
 fez-column-width(co = 1, gu = 0, cw = null, gw = null) 
   w = (fez-column-width-def(cw) * co) + (fez-gutter-width-def(gw) * gu)
-  min-width unit(w, px)
-  max-width unit(w, px)
+  width unit(w, px)
 
 fez-column(g) 
   margin 0 fez-gutter-width-def(g)
